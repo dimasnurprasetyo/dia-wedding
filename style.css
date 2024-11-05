@@ -102,7 +102,7 @@ text-shadow: var(--shadow);
 }
 .home .couple h3{
     font-family: 'sacramento';
-    font-size: 2.4rem;
+    font-size: 4rem;
     color: var(--pink);
 }
 .home .couple img{
@@ -432,4 +432,63 @@ footer li{
         width: 70px;
         height: 70px;
     }
+    .home .couple img{
+        width: 70%;
+    }
+    .home .couple h3{
+        font-family: 'sacramento';
+        font-size: 5rem;
+        color: var(--pink);
+        font-weight: bold;
+    }
+    .hero h1 {
+        font-size: 10rem;
+        text-align: center;
+    }
+    .hero h4{
+        font-size: 3rem;
+    }
+    .hero p{
+        font-size: 3rem;
+    }
+    .home p {
+        color: #666;
+        font-size: 1.8rem;
+    }
+    .info p {
+        font-size: 1.8rem;
+    }
+    .info span {
+        font-size: 1.8rem;
+    }
+    .story p{
+        font-size: 1.8rem;
+    }
+    .story span{
+        font-size: 1.8rem;
+    }
+    .gallery p{
+        font-size: 1.8rem;
+    }
+    .gallery span{
+        font-size: 1.8rem;
+    }
+    .rsvp p{
+        font-size: 1.8rem;
+    }
+    .rsvp span{
+        font-size: 1.8rem;
+    }
+    .gifts p{
+        font-size: 1.8rem;
+    }
+    .gifts span{
+        font-size: 1.8rem;
+    }
+    .gifts li{
+        font-size: 1.8rem;
+    }
+    
+
+    
 }
